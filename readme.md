@@ -1,4 +1,4 @@
-### 1 -HTML & CSS -> doc
+### 1 -HTML & CSS
 
 ---
 
